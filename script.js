@@ -44,3 +44,6 @@ function PowNum(){
     res = num1**num2
     h1.innerHTML="Result:" + res
 }
+function emty(){
+    location.replace(location.href);
+}
